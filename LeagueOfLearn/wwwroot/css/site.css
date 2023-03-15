@@ -74,9 +74,3 @@ body {
 .container {
     background-color: #382D49;
 }
-#rectangle {
-    height: 100px;
-    width: 500px;
-    background-color: #3D1252;
-    position: center;
-}
